@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+  font-size: 100px;
+}
+
+p {
+  color: blue;
+  text-align: justify;
+  background-color: pink;
+  font-weight: lighter;
+}
+
+.p1 {
+  opacity: 0.25;
+  background-image: url("https://grow.almabetter.com/static/media/brandsLogos.b7647547.svg");
+}
+
+.p2 {
+  color: brown !important;
+}
